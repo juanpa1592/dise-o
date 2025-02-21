@@ -1,4 +1,4 @@
-# disenio de ingeniería
+# diseño de ingeniería
 Presentado por:
 
 Sara Cardenas
